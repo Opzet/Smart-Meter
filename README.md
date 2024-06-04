@@ -2,12 +2,23 @@
 
 Self hosted Bill Management System for submeter via lora/wifi/LTE.
 
+
+## In-home displays
+In-home displays allow you to monitor and check your household energy use by showing the data from your smart meter.
+https://www.energy.vic.gov.au/households/victorian-energy-upgrades-for-households/in-home-displays
+
+https://www.veu-registry.vic.gov.au/Public/ProductRegistrySearch.aspx
+
+In-home displays allow you to monitor and check your household energy use as it occurs. 
+As a result, the product can help you understand and manage your energy use and reduce energy costs.
+
+
 ### Usage Dashboards
 
 It helpful for Tenant, HouseHolder etc
 
 ## Meter Type
-EM214 Residential Three Phase Electricity Meter With Internal Tariff Control | Type 90
+EM214 Residential Three Phase Electricity Meter With Internal Tariff Control | Type 900
 
 ## Research
 
