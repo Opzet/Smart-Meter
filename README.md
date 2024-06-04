@@ -1,7 +1,8 @@
-# Smart-Meter
+⁹# Smart-Meter
 
 Self hosted Bill Management System for submeter via lora/wifi/LTE.
 
+https://www.synergy.net.au/Your-home/Manage-account/Bills-and-payments/High-bill-checklist
 
 ## In-home displays
 In-home displays allow you to monitor and check your household energy use by showing the data from your smart meter.
