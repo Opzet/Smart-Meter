@@ -1,5 +1,13 @@
 # Smart-Meter
 
+Self hosted Bill Management System for submeter via lora/wifi/LTE.
+
+Usage Dashboards
+
+It helpful for Tenant, HouseHolder etc
+
+
+
 https://www.getgenea.com/blog/converting-manually-read-meters-to-be-read-remotely/
 
 
