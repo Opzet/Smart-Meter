@@ -5,6 +5,10 @@ https://www.getgenea.com/blog/converting-manually-read-meters-to-be-read-remotel
 
 AccuEnergy AcuMesh device to get that RS485 network back to your data collector wirelessly. The Accuenergy 710 or 810 or the Obvius A8810 are all good choices.
 
+https://netonomy.com.au/accuenergy-acumesh-l-900-wireless-mesh/
+
+
+https://www.getgenea.com/products/submeter/submeter-billing/billing-for-all-tenant-submeters/
 
 ---
 
