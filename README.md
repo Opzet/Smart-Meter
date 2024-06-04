@@ -2,11 +2,17 @@
 
 Self hosted Bill Management System for submeter via lora/wifi/LTE.
 
-Usage Dashboards
+### Usage Dashboards
 
 It helpful for Tenant, HouseHolder etc
 
+## Meter Type
+EM214 Residential Three Phase Electricity Meter With Internal Tariff Control | Type 90
 
+## Research
+
+
+Industrial - Proprietary european https://na.itron.com/categories/mobile-meter-reading  
 
 https://www.getgenea.com/blog/converting-manually-read-meters-to-be-read-remotely/
 
