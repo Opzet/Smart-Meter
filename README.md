@@ -1,6 +1,7 @@
 # Submetering
 
 https://www.submetersolutions.com/blog/the-ultimate-guide-to-submetering
+![image](https://github.com/Opzet/Smart-Meter/assets/4495790/dd11040f-1f3a-49c3-aab8-1d64990cd3d1)
 
 
 ## What is submetering?
@@ -8,6 +9,12 @@ Submetering involves installing individual meters to measure the consumption of 
 
 
 https://zohodesk.submetersolutions.com/portal/en/home
+
+https://www.westernpower.com.au/resources-education/faqs/all-metering/sub-meter/
+## What is an electricity sub-meter?
+An electricity subsidiary meter (sub-meter) is a meter that allows for the monitoring of electricity usage on a portion of your private installation past the revenue meter. Typical users of sub-metering are residential properties with a granny flat, apartment buildings, shopping centres, mobile home parks and commercial buildings.
+
+The revenue meter records the total consumption and the electric sub-meter records the part consumption for the sub-metered area only. Thus, the sub-meter’s consumption is recorded in the revenue meter.
 
 
 # Smart-Meter
