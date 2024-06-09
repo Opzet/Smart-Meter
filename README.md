@@ -3,6 +3,7 @@
 https://www.submetersolutions.com/blog/the-ultimate-guide-to-submetering
 ![image](https://github.com/Opzet/Smart-Meter/assets/4495790/dd11040f-1f3a-49c3-aab8-1d64990cd3d1)
 
+https://www.westernpower.com.au/resources-education/faqs/all-metering/sub-meter/
 
 ## What is submetering?
 Submetering involves installing individual meters to measure the consumption of electricity, gas, or water for each tenant in a building or complex. With submetering, each tenant is responsible for their individual usage, and billing is based on actual consumption, promoting fairness and transparency. Additionally, submetering can incentivize tenants to conserve resources and reduce waste, leading to cost savings for both you and your tenants.
