@@ -1,4 +1,16 @@
-⁹# Smart-Meter
+# Submetering
+
+https://www.submetersolutions.com/blog/the-ultimate-guide-to-submetering
+
+
+## What is submetering?
+Submetering involves installing individual meters to measure the consumption of electricity, gas, or water for each tenant in a building or complex. With submetering, each tenant is responsible for their individual usage, and billing is based on actual consumption, promoting fairness and transparency. Additionally, submetering can incentivize tenants to conserve resources and reduce waste, leading to cost savings for both you and your tenants.
+
+
+https://zohodesk.submetersolutions.com/portal/en/home
+
+
+# Smart-Meter
 
 Self hosted Bill Management System for submeter via lora/wifi/LTE.
 
