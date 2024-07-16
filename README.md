@@ -1,3 +1,33 @@
+https://onemeter.com/buy/home/
+
+![image](https://github.com/user-attachments/assets/a2e452ee-aa65-4245-b08a-34b182484745)
+
+https://github.com/ahpohl/smartmeter
+IEC 62056-21 optical interface
+![image](https://github.com/user-attachments/assets/1cb2eafd-aa0b-4be1-8296-bd6985f7c825)
+
+Many meters have the protocol name engraved on the plastic cover. You probably deal with:
+
+-  BLINK if you want to monitor energy consumption from a blinking LED of the meter,
+-  DLMS if you can see dlms logo on the meter,
+-  SML if you see Public Key, Server-ID, German language and no dlms logo,
+-  IEC 62056-21 otherwise.
+
+https://onemeter.com/docs/device/obis-policy/
+
+```
+/?!
+/LOG4LK13BD202035
+C.1.0(0xxxxxx)
+0.0.0(001LOG000xxxxx)
+F.F(0000)
+1.8.0(011021.857*kWh)
+2.8.0(011614.452*kWh)
+C.7.1(00000002)
+C.7.2(00000003)
+C.7.3(00000002)
+```
+
 # Submetering
 
 https://www.submetersolutions.com/blog/the-ultimate-guide-to-submetering
