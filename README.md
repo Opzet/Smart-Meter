@@ -1,4 +1,41 @@
+https://github.com/aquaticus/piggymeter_esphome_yaml
+![image](https://github.com/user-attachments/assets/19afef47-fb63-4ae7-a71b-64ef1049a380)
+
+>  "Please prepare the meter to enable reading of meter data using the IEC 62056-21 protocol via the optical port. Please unlock the optical port (if it is locked/disabled). I am primarily interested in OBIS codes
+>  1.8.0, 2.8.0, 15.8.0 (if measured) and their zone equivalents (X.8.1, X.8.2, etc.)"
+>  The meter shall be bidirectional and return at least OBIS code values 1.8.0 (active energy consumed A+, sum) and 2.8.0 (active energy given back A-, sum) and comply with the IEC 62056-21 protocol.
+>  In the case of meters installed in companies, in order to fully know what is happening, the meters should also return OBIS codes for reactive energy (5.8.0, 6.8.0, 7.8.0 and 8.8.0).
+
+
+![image](https://github.com/user-attachments/assets/39478225-dc85-46bf-b11e-ae995ce6947b)
+
+https://community.home-assistant.io/t/new-device-to-read-electric-meters-iec62056-21/624775
+https://aquaticus.info/meter.html
+
+https://play.google.com/store/apps/details?id=com.onemeter&pli=1
+
+![image](https://github.com/user-attachments/assets/092d4683-de4e-4bbb-90b7-dcaee33572ef)
+
+![image](https://github.com/user-attachments/assets/7ac274ea-d53b-4c15-82bf-f28d71ccd222)
+
+![image](https://github.com/user-attachments/assets/94be2ce7-9e5e-45a1-a4df-4989694e6e2a)
+
+![image](https://github.com/user-attachments/assets/cb0230eb-cf21-48e4-99a0-a41095b13aff)
+
+
+![image](https://github.com/user-attachments/assets/594c3b0a-8ce7-4bda-b216-38091d9657b6)
+
+![image](https://github.com/user-attachments/assets/30dda0ea-60c6-4246-b98f-ac8057b32a58)
+
+---
+
 https://onemeter.com/buy/home/
+https://onemeter.com/docs/gateway/
+
+![image](https://github.com/user-attachments/assets/e689c510-70a4-400b-b1f6-665891eb48de)
+
+
+![image](https://github.com/user-attachments/assets/8c72d497-50d4-4a74-a672-ed55849d4891)
 
 ![image](https://github.com/user-attachments/assets/a2e452ee-aa65-4245-b08a-34b182484745)
 
